@@ -2,6 +2,8 @@
 
 输入目标分数和谱面物量，计算达到该分数所需的 Perfect、Good、Miss 数量及最大连击数。
 
+[网页版](https://dragonred.cn/phisc/)
+
 ***
 
 ## 功能类型
